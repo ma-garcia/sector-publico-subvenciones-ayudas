@@ -49,8 +49,8 @@
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre subvenciones concedidas por un municipio</dc:title>
         <dc:identifier>http://vocab.linkeddata.es/datosabiertos/def/hacienda/presupuestos</dc:identifier>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion.html"/>
-        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion.owl"/>
+        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion-content/index.html"/>
+        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion-content/subvencion.owl"/>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion#"/>
         <owl:versionIRI rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/sector-publico/subvencion/0.1"/>
     </owl:Ontology>
